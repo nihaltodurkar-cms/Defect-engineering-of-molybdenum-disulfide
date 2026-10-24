@@ -98,14 +98,6 @@ chalcogen vacancies as deep trap states in MoS₂. Full DOS/PDOS/band-structure
 data for both systems are under `output/`, and can be regenerated as figures
 with the scripts above.
 
-## Roadmap
-
-- [x] Pristine monolayer MoS₂: relaxation, SCF/NSCF, DOS, PDOS, bands, Bader charges
-- [x] Single sulfur vacancy: same characterization pipeline
-- [ ] Sulfur di-vacancy and antisite defects
-- [ ] Substitutional doping (e.g. Nb, Re) at the Mo site
-- [ ] Defect formation energies as a function of chemical potential
-
 ## Citation
 
 If this repository is useful in your own work, please cite it — see
